@@ -1,16 +1,15 @@
-## Hi there 👋
+### Bonjour, je suis Mohamed Aziz Manai 👋
 
-<!--
-**mohamedazizmanai03-web/mohamedazizmanai03-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en **2e année de Licence en Business Computing à l'ESEN (Manouba)**  
+🎯 Projet professionnel : **Ingénieur en Business Intelligence (BI) & Data Strategy**
 
-Here are some ideas to get you started:
+#### 🛠️ Compétences techniques
+- **Bases de données & Data :** SQL, modélisation relationnelle
+- **Programmation :** Python, Langage C
+- **Développement Web :** HTML5, CSS3
+- **Outils décisionnels (en cours d'apprentissage) :** Power BI, Reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Objectif actuel
+Renforcer mes compétences en analyse de données et concevoir des projets décisionnels concrets en vue d'intégrer un cycle d'ingénieur en Informatique / Data.
+
+📫 **Me retrouver :** [LinkedIn](https://www.linkedin.com/in/mohamed-aziz-manai-225199452)
